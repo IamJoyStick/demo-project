@@ -1,0 +1,74 @@
+body{
+	background-color: #DAF7A6;
+}
+#h1{
+	position: absolute;
+	top: 0px;
+	left: 200px; 
+	color: green;
+    font-size: 50px;
+    font-style: bold;
+
+}
+#h2{ 
+	position: absolute;
+	left: 20px;
+	top: 700px;
+	color: red;
+	font-size: 20px;
+
+}
+#h3{
+	position: absolute;
+	top: 80px;
+	left: 200px; 
+	color: green;
+    font-size: 20px;
+    font-style: bold;
+
+
+}
+#h5{
+	position: absolute;
+	top: 200px;
+	left: 100px;
+
+}
+#input{
+	position: absolute;
+	top: 220px;
+	left: 200px;
+}
+#b1{
+	position: absolute;
+	top: 570px;
+	left: 200px;
+	width: 170px;
+	color: blue;
+}
+#pic{
+	position: absolute;
+	top: 200px;
+	right: 10px;
+	width: 400;
+	height: 400;
+	border: groove;
+	border-width: 20px;
+	border-style: groove;
+	border-color: green;
+}
+#h6{
+
+	position: absolute;
+	top: 150px;
+	right: 10px;
+	width: 600px;
+	height: 500px;
+	font-style: italic;
+	font-size: 20px;
+	color: blue;
+	border: groove;
+	border-width: 20px;
+	border-style: groove;
+	border-color: green;
+}

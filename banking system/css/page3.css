@@ -1,0 +1,43 @@
+body{
+	background-color: #DAF7A6;
+}
+#h1{
+	position: absolute;
+	top: 0px;
+	left: 200px; 
+	color: green;
+    font-size: 50px;
+    font-style: bold;
+
+}
+#h3{
+	position: absolute;
+	top: 80px;
+	left: 200px; 
+	color: green;
+    font-size: 20px;
+    font-style: bold;
+
+
+}
+#b1{
+	position: absolute;
+	top: 200px;
+	left: 100px;
+	
+
+}
+#home{
+	position: absolute;
+	top:195px;
+	left: 65px;
+}
+#bt{
+	position: absolute;
+	height: 100px;
+	right: 100px;
+}
+#bb{
+	background-color: #DAF7A6;
+	
+}

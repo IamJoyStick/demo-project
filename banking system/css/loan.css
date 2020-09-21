@@ -1,0 +1,92 @@
+body{
+	background-color: #DAF7A6;
+}
+
+#h1{
+	position: absolute;
+	top: 0px;
+	left: 200px; 
+	color: green;
+    font-size: 50px;
+    font-style: bold;
+
+}
+#h3{
+	position: absolute;
+	top: 80px;
+	left: 200px; 
+	color: green;
+    font-size: 20px;
+    font-style: bold;
+
+
+}
+#h2{ 
+	position: absolute;
+	left: 20px;
+	top: 750px;
+	color: red;
+	font-size: 20px;
+
+}
+
+#h4{
+	position: absolute;
+	left: 20px;
+	top: 140px;
+	color: blue;
+	font-size: 25px;
+}
+p.detail{
+	color: blue;
+}
+span.name{
+	color: red;
+}
+.h5{
+	position: absolute;
+	top: 200px;
+	left: 100px;
+	font-size: 10px;
+	font-style: bold;
+}
+#input{
+	position: absolute;
+	top: 220px;
+	left: 300px;
+}
+#b1{
+	position: absolute;
+	top: 600px;
+	left: 300px;
+	width: 170px;
+	color: blue;
+}
+h1.note{
+	color: blue;
+	font-size: 18px;
+	font-style: italic;
+	position: absolute;
+	left: 0px;
+	top: 620px;
+}
+#b5{
+ 	position: absolute;
+ 	right: 0px;
+ 	top: 200px;
+ }
+
+#b4{
+	position: absolute;
+	right: 300px;
+    top: 200px;
+    font-size: 18px;
+    font-style: bold;
+    color: green;
+
+}
+#b10{
+	position: absolute;
+	top: 130px;
+	left: 200px;
+}
